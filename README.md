@@ -1,6 +1,6 @@
 # Ants-Vs.-Bees
 
-**Usage:**  
+**Usage:** Run the following command in your terminal  
 ants_gui.py [-h] [-d DIFFICULTY] [-w] [--food FOOD]
 
 Optional Arguments:
